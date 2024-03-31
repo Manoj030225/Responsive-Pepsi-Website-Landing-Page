@@ -183,7 +183,7 @@ header ul li a{
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(img/menu.png);
+        background: url('lapttop-img/menu.png');
         background-position: center;
         background-size: 30px;
         background-repeat: no-repeat;
@@ -191,7 +191,7 @@ header ul li a{
         cursor: pointer;
     }
     .toggleMenu.active{
-        background: url(img/close.png);
+        background: url('lapttop-img/close.png');
         background-position: center;
         background-size: 25px;
         background-repeat: no-repeat;
