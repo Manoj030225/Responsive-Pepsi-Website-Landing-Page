@@ -1,6 +1,8 @@
 # pepsi-landing-page-responsive
 Diseño web Responsive esta diseñada en HTML, CSS, JS.
 
+LIVE DEMO == https://manoj030225.github.io/Responsive-Pepsi-Website-Landing-Page/
+
 ![pepsi-laptop](https://user-images.githubusercontent.com/53599271/92312592-80186e00-efc2-11ea-881c-1ce2850b565f.png)
 
 ![pepsi-red](https://user-images.githubusercontent.com/53599271/92312661-18165780-efc3-11ea-9710-3cc2b25c0c09.png)
